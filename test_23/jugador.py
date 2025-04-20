@@ -9,6 +9,3 @@ def tirar_dado(jugador_id, puntos):
     print(f"Total de tiradas: {var.total_tiradas}")
     print(f"Puntaje actual: {var.puntaje_actual}")
     print(f"Puntos obtenidos: {puntos}")
-    
-    # Devuelve algún resultado
-    return var.total_tiradas
