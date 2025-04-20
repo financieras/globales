@@ -1,4 +1,5 @@
 # jugador.py
+
 from config import var
 
 def tirar_dado(jugador_id, puntos):

@@ -1,4 +1,5 @@
 # principal.py
+
 from random import randint
 from config import var
 import jugador
